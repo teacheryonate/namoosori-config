@@ -1,0 +1,2 @@
+# namoosori-config
+test
