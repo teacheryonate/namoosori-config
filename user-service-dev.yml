@@ -1,0 +1,10 @@
+spring:
+  datasource:
+   driver-class-name: org.h2.Driver
+   url: jdbc:h2:mem:testdb
+   username: sa
+   password: '{cipher}7afe0e7ab719fc5110784a066e5f35f014ab41c0870e4f69223d9b47a5aa9e89'
+   
+token:
+  expiration_time: 86400000
+  secret: github_user_token_user_service_dev 
