@@ -7,4 +7,4 @@ spring:
    
 token:
   expiration_time: 86400000
-  secret: github_user_token_github_user_service   
+  secret: github_user_token_user_service_default   
