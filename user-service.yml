@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: github_user_token_user_service_default   
+  secret: github_user_token_user_service_default
 
 spring:
   datasource:
