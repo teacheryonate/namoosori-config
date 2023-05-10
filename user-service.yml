@@ -12,6 +12,6 @@ spring:
 
 order_service:
   url: http://order-service/order-service/%s/orders
-  #url: http://localhost:8000/order-service/%s/orders
+  #삭제(위의 것으로 수정): url: http://localhost:8000/order-service/%s/orders
   exception:
     order_is_empty: User's order is empty.
